@@ -7,6 +7,9 @@ MIT
 @angular/core
 MIT
 
+@angular/forms
+MIT
+
 @angular/platform-browser
 MIT
 
@@ -146,6 +149,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ng2-charts
 ISC
+
+ngx-ui-loader
+MIT
 
 rxjs
 Apache-2.0
